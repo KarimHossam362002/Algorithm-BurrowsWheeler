@@ -1,0 +1,14 @@
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\bin\Debug\net8.0\BurrowsWheeler.exe
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\bin\Debug\net8.0\BurrowsWheeler.deps.json
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\bin\Debug\net8.0\BurrowsWheeler.runtimeconfig.json
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\bin\Debug\net8.0\BurrowsWheeler.dll
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\bin\Debug\net8.0\BurrowsWheeler.pdb
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.AssemblyInfoInputs.cache
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.AssemblyInfo.cs
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.csproj.CoreCompileInputs.cache
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.dll
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\refint\BurrowsWheeler.dll
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.pdb
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\BurrowsWheeler.genruntimeconfig.cache
+D:\FCIS-2024\FCIS-3rd-Year\2nd term\Algorithm\Project\BurrowsWheeler\BurrowsWheeler\BurrowsWheeler\obj\Debug\net8.0\ref\BurrowsWheeler.dll

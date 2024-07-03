@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\mtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\mtf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\bwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\bwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\savetobinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\savetobinaryfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|d:\\fcis-2024\\fcis-3rd-year\\2nd term\\algorithm\\project\\burrowswheeler\\burrowswheeler\\burrowswheeler\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D490-0748-4DF3-B6B9-AF187E5CD327}|BurrowsWheeler\\BurrowsWheeler.csproj|solutionrelative:burrowswheeler\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\Program.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\Program.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\Program.cs",
+              "RelativeToolTip": "BurrowsWheeler\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAADwv0MAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:38:03.601Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BWT.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\BWT.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\BWT.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\BWT.cs",
+              "RelativeToolTip": "BurrowsWheeler\\BWT.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:48:45.976Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveToBinaryFile.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\SaveToBinaryFile.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\SaveToBinaryFile.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\SaveToBinaryFile.cs",
+              "RelativeToolTip": "BurrowsWheeler\\SaveToBinaryFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:11:50.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\QuickSort.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\QuickSort.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\QuickSort.cs",
+              "RelativeToolTip": "BurrowsWheeler\\QuickSort.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T02:23:43.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\PriorityQueue.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\PriorityQueue.cs",
+              "RelativeToolTip": "BurrowsWheeler\\PriorityQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:29:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Huffman.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\Huffman.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\Huffman.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\Huffman.cs",
+              "RelativeToolTip": "BurrowsWheeler\\Huffman.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:49:36.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MTF.cs",
+              "DocumentMoniker": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\MTF.cs",
+              "RelativeDocumentMoniker": "BurrowsWheeler\\MTF.cs",
+              "ToolTip": "D:\\FCIS-2024\\FCIS-3rd-Year\\2nd term\\Algorithm\\Project\\BurrowsWheeler\\BurrowsWheeler\\BurrowsWheeler\\MTF.cs",
+              "RelativeToolTip": "BurrowsWheeler\\MTF.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwDYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:49:14.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
